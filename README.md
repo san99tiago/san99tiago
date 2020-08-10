@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there, I'm Santiago Garcia,  a.k.a  [san99tiago][website] 👋
 
-<!--
-**san99tiago/san99tiago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a student that loves learning new things and understanding the art of how everything works!
+- :mortar_board: I’m currently in eight semester of Mechatronics Engineering
+- :robot: I’m happy studying Machine Learning Algorithms.
+- :pencil2: I’m always happy sharing my knoledge and working with multidisciplinary teams.
+- :goal_net: This year's Goals: Contribute more to Open Source projects.
+- :smiley: Fun fact: I like to juggle and play the piano in my free times.
 
-Here are some ideas to get you started:
+### Connect with me:
+[<img align="left" alt="san99tiago | github" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][github]
+[<img align="left" alt="san99tiago | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+---
+[github]: https://github.com/san99tiago
+[website]: https://github.com/san99tiago
+[linkedin]: https://www.linkedin.com/in/san99tiago/
