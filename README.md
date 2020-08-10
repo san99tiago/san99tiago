@@ -1,6 +1,6 @@
 ### Hi there, I'm Santiago Garcia,  a.k.a  [san99tiago][website] 👋
 
-## I'm a student that loves learning new things and understanding the art of how everything works!
+## I'm a student that loves learning new things and understanding how everything works!
 - :mortar_board: I’m currently in eight semester of Mechatronics Engineering
 - :robot: I’m happy studying Machine Learning Algorithms.
 - :pencil2: I’m always happy sharing my knoledge and working with multidisciplinary teams.
