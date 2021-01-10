@@ -1,7 +1,7 @@
 ### Hi there, I'm Santiago Garcia,  a.k.a  [san99tiago][website] 👋
 
 ## I'm a student that loves learning new things and understanding how everything works!
-- :mortar_board: I’m currently in eight semester of Mechatronics Engineering.
+- :mortar_board: I’m currently in ninth semester of Mechatronics Engineering.
 - :robot: I’m excited diving into Machine Learning Algorithms.
 - :pencil2: I’m always happy sharing my knowledge and working with multidisciplinary teams.
 - :goal_net: This year's Goals: Contribute more to Open Source projects.
