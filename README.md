@@ -11,7 +11,7 @@
 [<img align="left" alt="san99tiago | github" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][github]
 [<img align="left" alt="san99tiago | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="san99tiago | Platzi" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/platzi.svg" />][platzi]
-
+[<img align="left" alt="san99tiago | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />][instagram]
 
 
 
@@ -22,3 +22,4 @@
 [website]: https://github.com/san99tiago
 [linkedin]: https://www.linkedin.com/in/san99tiago/
 [platzi]: https://platzi.com/p/san99tiago/
+[instagram]: https://www.instagram.com/san99tiago/
