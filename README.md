@@ -3,7 +3,7 @@
 ## I'm a student that loves learning new things and understanding how everything works!
 - :robot: I’m excited diving into AWS, DevSecOps, IaC, Kubernetes and Machine Learning Algorithms.
 - :pencil2: I’m always happy sharing my knowledge and working with multidisciplinary teams.
-- :mortar_board: I’m currently in ninth semester of Mechatronics Engineering.
+- :mortar_board: I’m currently in tenth semester of Mechatronics Engineering.
 - :goal_net: This year's Goals: Contribute more to Open Source projects.
 - :smiley: Fun fact: I like to juggle and play the piano in my free times.
 
