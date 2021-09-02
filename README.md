@@ -18,7 +18,7 @@
 
 ---
 [website]: https://github.com/san99tiago
-[youtube]: https://www.youtube.com/channel/UCvMRgDCzPFcjqhX7ZTRGaHA
+[youtube]: https://www.youtube.com/c/san99tiago
 [linkedin]: https://www.linkedin.com/in/san99tiago/
 [instagram]: https://www.instagram.com/san99tiago/
 [platzi]: https://platzi.com/p/san99tiago/
