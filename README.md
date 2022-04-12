@@ -11,13 +11,13 @@ class WhoAmI:
         print("Hobbies: {}" .format(self.get_hobbies()))
 
     def get_current_learning_tech_tools(self):
-        return(["Kubernetes", "DevSecOps", "Cryptography"])
+        return(["Advanced AWS Deployments", "Kubernetes", "DevSecOps Best Practices", "Cryptography"])
 
     def get_well_known_tech_tools(self):
         return({
-            "Backend & Frontend Tools": "Spring, Express, Flask, FastAPI, PHP & HTML, CSS, JS, SASS, React",
-            "Databases": "MySQL, SQLite, MariaDB & MongoDB, DynamoDB",
-            "DevOps Tools": "Docker, Kubernetes, Git, Jenkins, Azure Pipelines, SonarQube, AWS CloudFormation, OWASP",
+            "Backend & Frontend Tools": "Spring, Express, Flask, FastAPI & HTML, CSS, JS, SASS, React",
+            "Databases": "MySQL, SQLite, MariaDB & MongoDB, DynamoDB, Elasticsearch",
+            "DevOps Tools": "SCM, Linux Background, Docker, Kubernetes, Git, Jenkins, Azure Pipelines, Azure Extensions, SonarQube, AWS CloudFormation, Packer, Terraform, Ansible, OWASP",
             "Cloud Computing": "AWS (multiple resources with best architecture practices and IaC approach)",
             "Servers": "IBM Websphere Application Server, IBM MQ, Apache Tomcat, Nginx",
             "Computer Vision & IoT": "OpenCV, Pillow, Darknet & ESP8266, NodeMCU, RaspberryPi, RFModules, Postman",
