@@ -1,4 +1,11 @@
-# Hi, I'm `Santiago Garcia Arango`,  a.k.a [san99tiago](https://github.com/san99tiago/) [<img src="assets/cool_rick.gif" width=10% align="center" alt="cool rick image"  title="The master has failed more times than the beginner has even tried - Stephen Mccranie">](https://www.linkedin.com/in/san99tiago/)
+# `Santiago Garcia Arango` ([san99tiago](https://github.com/san99tiago/)) [<img src="assets/cool_rick.gif" width=10% align="center" alt="cool rick image"  title="The master has failed more times than the beginner has even tried - Stephen Mccranie">](https://www.linkedin.com/in/san99tiago/)
+
+<p align="center">
+  <a href="https://san99tiago.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&width=1000&duration=3000&pause=1500&color=0CF474&center=true&vCenter=true&lines=Nice+to+meet+you!+I'm+Santiago+Garcia+Arango+(san99tiago);A+curious+DevSecOps+Engineer+passionate+about+AWS;+I+love+to+learn+new+things+everyday;...and+use+them+to+solve+challenging+problems!;I+started+developing+software+solutions+back+on+2015;...and+everyday+I+love+the+tech+world+even+more!;I+design+transactional+Event+Driven+Architectures+for+the+cloud;...by+leveraging+IaC+and+top+notch+DevOps+solutions+on+AWS...;I+also+enjoy+sharing+my+knowledge+by+explaining+tech+topics+to+others;...so+feel+free+to+reach+out+to+me+if+I+can+help+somehow!;Learn+more+about+me+at:++san99tiago.com" alt="Santiago Garcia Arango"/>
+  </a>
+</p>
+
 
 ```python
 class WhoAmI:
@@ -17,8 +24,8 @@ class WhoAmI:
         return({
             "Backend & Frontend Tools": "Spring, Express, Flask, FastAPI & HTML, CSS, JS, SASS, React",
             "Databases": "MySQL, SQLite, MariaDB & MongoDB, DynamoDB, Elasticsearch",
-            "DevOps Tools": "SCM, Git, Linux Background, Docker, Kubernetes, Jenkins, Azure Pipelines, Azure Extensions, SonarQube, Packer, Terraform, AWS CloudFormation, Ansible, OWASP",
-            "Cloud Computing": "AWS (multiple resources with best architecture practices and IaC approach)",
+            "DevOps Tools": "SCM, Git, Linux Background, Docker, Kubernetes, Jenkins, Azure DevOps, SonarQube, Packer, Terraform, CloudFormation, CDK, Ansible, OWASP",
+            "Cloud Computing": "AWS (multiple resources with best architecture practices and IaC approach), 3x Certified",
             "Servers": "IBM Websphere Application Server, IBM MQ, Apache Tomcat, Nginx",
             "Computer Vision & IoT": "OpenCV, Pillow, Darknet & ESP8266, NodeMCU, RaspberryPi, RFModules, Postman",
             "Data Science": "Matplotlib, Numpy, Pandas, Seaborn, Pyplot",
