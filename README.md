@@ -2,38 +2,35 @@
 
 <p align="center">
   <a href="https://san99tiago.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&width=1000&duration=3000&pause=1500&color=0CF474&center=true&vCenter=true&lines=Nice+to+meet+you!+I'm+Santiago+Garcia+Arango+(san99tiago);A+curious+DevSecOps+Engineer+passionate+about+AWS;+I+love+to+learn+new+things+everyday;...and+use+them+to+solve+challenging+problems!;I+started+developing+software+solutions+back+on+2015;...and+everyday+I+love+the+tech+world+even+more!;I+design+transactional+Event+Driven+Architectures+for+the+cloud;...by+leveraging+IaC+and+top+notch+DevOps+solutions+on+AWS...;I+also+enjoy+sharing+my+knowledge+by+explaining+tech+topics+to+others;...so+feel+free+to+reach+out+to+me+if+I+can+help+somehow!;Learn+more+about+me+at:++san99tiago.com" alt="Santiago Garcia Arango"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&width=1000&duration=3000&pause=1500&color=0CF474&center=true&vCenter=true&lines=Nice+to+meet+you!+I'm+Santiago+Garcia+Arango+(san99tiago);A+curious+Solutions+Architect+passionate+about+AWS+and+DevOps;+I+love+to+learn+new+things+everyday;...and+use+them+to+solve+challenging+problems!;I+started+developing+software+solutions+back+on+2015;...and+everyday+I+love+the+tech+world+even+more!;I+design+transactional+Event+Driven+Architectures+for+the+cloud;...by+leveraging+IaC+and+top+notch+DevOps+solutions+on+AWS...;I+also+enjoy+sharing+my+knowledge+by+explaining+tech+topics+to+others;...so+feel+free+to+reach+out+to+me+if+I+can+help+somehow!;Learn+more+about+me+at:++san99tiago.com" alt="Santiago Garcia Arango"/>
   </a>
 </p>
-
 
 ```python
 class WhoAmI:
     """Class to introduce Santi :)"""
     def __init__(self, visitor_name):
         self.user = "san99tiago"
-        self.last_education = "B.S. Mechatronics Engineering"
-        print("Learing: {}".format(self.get_current_learning_tech_tools()))
-        print("Well-Known: {}".format(self.get_well_known_tech_tools()))
-        print("Hobbies: {}" .format(self.get_hobbies()))
+        self.last_education = "M.S. Cybersecurity"
+        print(f"👋 Hello {visitor_name}, welcome to {self.user}'s GitHub!")
+        print(f"🔮 Summary {self.user}: AWS Solutions Architect, lifelong learner, and passionate mentor.")
+        print(f"📚 Exploring: {self.get_current_learning_tools()}")
+        print(f"💡 Well-Known: {self.get_well_known_tools()}")
 
-    def get_current_learning_tech_tools(self):
-        return(["Advanced AWS Deployments", "Kubernetes", "GitLab CI/CD", "Complex Terraform Workflows", "Cryptography"])
+    def get_current_learning_tools(self):
+        return (["Gen-AI Orchestration", "Cloud-Native Core-Banking Systems", "K8s", "PQ-Cryptography", "Complex Terraform Workflows"])
 
-    def get_well_known_tech_tools(self):
-        return({
-            "Backend & Frontend Tools": "Spring, Express, Flask, FastAPI & HTML, CSS, JS, SASS, React",
-            "Databases": "MySQL, SQLite, MariaDB & MongoDB, DynamoDB, Elasticsearch",
-            "DevOps Tools": "SCM, Git, Linux Background, Docker, Kubernetes, Jenkins, Azure DevOps, SonarQube, Packer, Terraform, CloudFormation, CDK, Ansible, OWASP",
-            "Cloud Computing": "AWS (multiple resources with best architecture practices and IaC approach), 3x Certified",
-            "Servers": "IBM Websphere Application Server, IBM MQ, Apache Tomcat, Nginx",
-            "Computer Vision & IoT": "OpenCV, Pillow, Darknet & ESP8266, NodeMCU, RaspberryPi, RFModules, Postman",
-            "Data Science": "Matplotlib, Numpy, Pandas, Seaborn, Pyplot",
-            "Robotics & Machine Learning": "ROS, Python, Arduino & Scikit-learn, TensorFlow, CVXPY"
+    def get_well_known_tools(self):
+        return ({
+            "Cloud": "AWS 8x Certified Solutions Architect with deep expertise in building enterprise-grade distributed systems for FSI",
+            "DevOps": "Git, Linux, Docker, K8s, Terraform, CloudFormation, CDK, GH-Actions, Jenkins, Azure DevOps, SonarQube, Packer, Ansible.",
+            "Backend & Frontend Tools": "FastAPI, Flask, Spring, Express, HTML, CSS, JS, React, SASS.",
+            "Databases": "DynamoDB, MongoDB, MySQL, SQLite, PostgreSQL, ElasticSearch, OpenSearch.",
+            "Servers & Security": "IBM Websphere Application Server, IBM MQ, Apache Tomcat, Nginx, OWASP, Splunk, Wazuh, AuthN/AuthZ.",
+            "Data Science": "Python, ETLs, Matplotlib, Numpy, Pandas, Seaborn, Pyplot.",
+            "CV & IoT": "OpenCV, Pillow, Darknet & ESP8266, NodeMCU, RaspberryPi, RFModules, Postman.",
+            "Robotics & Machine Learning": "ROS, Arduino, Bedrock, SageMaker, Scikit-learn, TensorFlow, CVXPY."
         })
-
-    def get_hobbies(self):
-        return(["Piano", "Learn cool tech things", "Listen to audiobooks", "Juggle"])
 
 santi = WhoAmI("your_name")
 ```
